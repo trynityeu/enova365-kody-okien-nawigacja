@@ -1,8 +1,8 @@
 # Kody okien — jednoznaczne adresowanie ekranów systemu (enova365)
 
 > Narzędzie przekrojowe, wspólne dla obu rodzin:
-> [obieg faktur zakupu z KSeF](../../trynityeu/enova365-obieg-faktur-ksef) ·
-> [kartoteka, sprzedaż i fakturowanie](../../trynityeu/enova365-obieg-sprzedazy-i-kartoteki)
+> [obieg faktur zakupu z KSeF](https://github.com/trynityeu/enova365-obieg-faktur-ksef) ·
+> [kartoteka, sprzedaż i fakturowanie](https://github.com/trynityeu/enova365-obieg-sprzedazy-i-kartoteki)
 
 Dodatek do systemu ERP **enova365** (Soneta sp. z o.o.), który nadaje **każdemu
 ekranowi programu krótki kod** widoczny w nagłówku i pozwala ten kod wpisać
